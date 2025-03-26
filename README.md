@@ -1,16 +1,20 @@
-## Hi there 👋
+ Hey dear, My name is Paulo or Paul e welcome to show!
 
-<!--
-**vcrpaulo00/vcrpaulo00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Python Developer, technology enthusiast and passionate about nature
+About me!
 
-Here are some ideas to get you started:
+Github
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    🔭 Atualmente trabalho com análise de projetos
+
+    🌱 Me aprofundando constantemente em tecnologias do ecossistema .NET
+
+    👯 Estou trabalhando de forma autonoma em um projeto especial com .NET, xUnit, React.js
+
+    ⚡ Fato curioso: Adoro esportes!
+
+Skills
+Ferramentas
+Conecte-se comigo!
+
+
